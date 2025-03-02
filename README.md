@@ -7,7 +7,7 @@
 [фронт репа](https://github.com/artyom12211/ibookly-client)  
 ```
 git clone https://github.com/artyom12211/ibookly-client  
-cd /ibookly-client
+cd .\ibookly-client\
 pnpm i  
 ```
 
@@ -26,7 +26,7 @@ pnpm dev:https
 [бэк репа](https://github.com/artyom12211/ibookly-server)  
 ```
 git clone https://github.com/artyom12211/ibookly-server
-cd /ibookly-server
+cd .\ibookly-server\
 pnpm i
 ```
 
