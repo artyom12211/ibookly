@@ -4,7 +4,7 @@
 `npm i -G pnpm`
 
 ## Фронтенд:
-[ibookly-frontend](https://github.com/artyom12211/ibookly-client)  
+[фронт репа](https://github.com/artyom12211/ibookly-client)  
 cd /frontend  
 git clone https://github.com/artyom12211/ibookly-client  
 pnpm i  
@@ -21,7 +21,7 @@ pnpm dev:https
 ```
 
 ## Бэкенд:
-[ibookly-backend](https://github.com/artyom12211/ibookly-server)  
+[бэк репа](https://github.com/artyom12211/ibookly-server)  
 cd /backend  
 git clone https://github.com/artyom12211/ibookly-server  
 pnpm i  
