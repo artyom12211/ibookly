@@ -28,6 +28,7 @@ pnpm dev:https
 git clone https://github.com/artyom12211/ibookly-server
 cd .\ibookly-server\
 pnpm i
+pnpm dlx prisma generate
 ```
 
 добавь `.env.development`
