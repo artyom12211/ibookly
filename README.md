@@ -1,4 +1,4 @@
-Создай в новом проекте директории /frontend и /backend
+Создай пустой проект
 
 ## Общее
 `npm i -G pnpm`
@@ -6,8 +6,8 @@
 ## Фронтенд:
 [фронт репа](https://github.com/artyom12211/ibookly-client)  
 ```
-cd /frontend  
 git clone https://github.com/artyom12211/ibookly-client  
+cd /ibookly-client
 pnpm i  
 ```
 
@@ -25,8 +25,8 @@ pnpm dev:https
 ## Бэкенд:
 [бэк репа](https://github.com/artyom12211/ibookly-server)  
 ```
-cd /backend  
-git clone https://github.com/artyom12211/ibookly-server  
+git clone https://github.com/artyom12211/ibookly-server
+cd /ibookly-server
 pnpm i
 ```
 
