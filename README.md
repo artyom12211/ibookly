@@ -5,9 +5,11 @@
 
 ## Фронтенд:
 [фронт репа](https://github.com/artyom12211/ibookly-client)  
+```
 cd /frontend  
 git clone https://github.com/artyom12211/ibookly-client  
 pnpm i  
+```
 
 добавь `.env.development` 
 ```
@@ -22,9 +24,11 @@ pnpm dev:https
 
 ## Бэкенд:
 [бэк репа](https://github.com/artyom12211/ibookly-server)  
+```
 cd /backend  
 git clone https://github.com/artyom12211/ibookly-server  
-pnpm i  
+pnpm i
+```
 
 добавь `.env.development`
 ```
